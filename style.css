@@ -266,7 +266,7 @@ menu a:hover{
     height: 80vh;
     background-color: #101010;
     border-radius: 20px;
-    background-image: url(imgs/bg.png);
+    background-image: url(bg.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
