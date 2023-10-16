@@ -35,7 +35,7 @@ For support, email bhadiyadrasmit24@gmail.com
 
 ## Screenshots
 
-![App Screenshot](site.png)
+<img align="center" alt="coding" width="500" src="site.png">
 
 
 ## Related
